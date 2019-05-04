@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netty-dubbo-api" />
+        <module name="netty-dubbo-client" />
+        <module name="netty-dubbo-common" />
+        <module name="netty-dubbo-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty-dubbo-api" target="1.5" />
+      <module name="netty-dubbo-client" target="6" />
+      <module name="netty-dubbo-common" target="1.5" />
+      <module name="netty-dubbo-server" target="1.7" />
+      <module name="netty-to-dubbo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

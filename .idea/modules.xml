@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-dubbo-api/netty-dubbo-api.iml" filepath="$PROJECT_DIR$/netty-dubbo-api/netty-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-dubbo-client/netty-dubbo-client.iml" filepath="$PROJECT_DIR$/netty-dubbo-client/netty-dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-dubbo-common/netty-dubbo-common.iml" filepath="$PROJECT_DIR$/netty-dubbo-common/netty-dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-dubbo-server/netty-dubbo-server.iml" filepath="$PROJECT_DIR$/netty-dubbo-server/netty-dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-to-dubbo.iml" filepath="$PROJECT_DIR$/netty-to-dubbo.iml" />
+    </modules>
+  </component>
+</project>
